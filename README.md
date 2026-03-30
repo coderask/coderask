@@ -15,7 +15,7 @@ I’m a Computer Engineering student at UCSB. I’m focused on **systems-level p
 * [WRITE YOUR DESCRIPTION HERE - e.g., "Automated the firmware pipeline with GitHub Actions."]
 
 #### [Interchat Showcase](https://github.com/coderask)
-*Figma for LLM's. Built fullstack application using Next.js, MongoDB, [Auth Client name], [RAG DB name], other stuff. 
+*Figma for LLM's. Built fullstack application using Next.js, MongoDB, various Oath integrations, Pinecone DB for RAG, other stuff. 
 
 #### Other Stuff I do
 * **UCSB ArchLab Research:** Currently building a RISC-V core in PyRTL; focusing on the ALU and instruction decoding.

@@ -11,8 +11,8 @@ I’m a Computer Engineering student at UCSB. I’m focused on **systems-level p
 ### Work
 
 #### [Gaucho Racing (FSAE) Firmware Tooling](https://github.com/Gaucho-Racing)
-* [WRITE YOUR DESCRIPTION HERE - e.g., "Built a YAML-to-C header generator to eliminate manual CAN config errors."]
-* [WRITE YOUR DESCRIPTION HERE - e.g., "Automated the firmware pipeline with GitHub Actions."]
+* Converted messy CAN data across multiple spread sheets into a single source of truth YAML file. Wrote associated parsers to generate appropriate structs. 
+* Wrote a interactive tool to simplify managing CAN data for other subteams within Gaucho Racing. Check it out: (https://gaucho-racing.github.io/Firmware/). Usually a few versions behind. 
 
 #### [Interchat](https://github.com/coderask/interchat_showcase)
 *Figma for LLM's. Built fullstack application using Next.js, MongoDB, various Oath integrations, Pinecone DB for RAG.  

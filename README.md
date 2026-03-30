@@ -17,13 +17,13 @@ I’m a Computer Engineering student at UCSB. I’m focused on **systems-level p
 #### [Interchat](https://github.com/coderask/interchat_showcase)
 *Figma for LLM's. Built fullstack application using Next.js, MongoDB, various Oath integrations, Pinecone DB for RAG.  
 
-#### Other Stuff I do
+#### Other Stuff
 * **UCSB ArchLab Research:** Currently building a RISC-V core in PyRTL; focusing on the ALU and instruction decoding.
 * **Network Traffic Profiler:** SB hacks project(not submitted). Used `hostapd` and `dnsmasq` to find bandwith hoggers & profile people on DNS requests. Turned linux box into a rogue AP.
 *  **Blindly**(https://github.com/parthdiwane/Blindly.git) SB hacks submission. Scans your assignments from multiple sources and does all setup work so you can do work, Blindly. 
 * **Branch Prediction Simulator:**(https://github.com/coderask/Branch_Prediction) Wrote out some Branch Prediction algorithms & plotted accuracy. Mainly for learning. 
 * **card-counter**(https://github.com/parthdiwane/card-counter) Wrote EV algorithms so that we can use CV on Meta glasses to tell you to hit or not in blackjack.
-
+* **f1-strategy-research**(https://github.com/coderask/f1racesim.git) High school research project. Merged 2 Feed-Foward Neural Net's to improve accuracy by ~15%. 
 ---
 
 ### Note

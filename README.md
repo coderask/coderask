@@ -15,7 +15,7 @@ I’m a Computer Engineering student at UCSB. I’m focused on **systems-level p
 * Wrote a interactive tool to simplify managing CAN data for other subteams within Gaucho Racing. Check it out: (https://gaucho-racing.github.io/Firmware/). Usually a few versions behind. 
 
 #### [Interchat](https://github.com/coderask/interchat_showcase)
-*Figma for LLM's. Built fullstack application using Next.js, MongoDB, various Oath integrations, Pinecone DB for RAG.  
+*Figma for LLM's. Built fullstack application using Next.js, MongoDB, various OAuth integrations, Pinecone DB for RAG.  
 
 #### Other Stuff
 * **UCSB ArchLab Research:** Currently building a RISC-V core in PyRTL; focusing on the ALU and instruction decoding.
